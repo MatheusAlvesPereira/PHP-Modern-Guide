@@ -1,1 +1,1 @@
-# PHP-best-pratices
+# PHP-Modern-Guide
