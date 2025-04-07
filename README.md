@@ -25,6 +25,9 @@
 
 ## Tests
 * Unit Tests
+* Integration Tests
+* Functional Tests
+* CI/CD
 
 ## frameworks:
 * PHP Laravel
